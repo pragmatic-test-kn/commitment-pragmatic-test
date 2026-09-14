@@ -1,0 +1,282 @@
+[
+  {
+    "item_id": 1,
+    "context_positive": "Letzte Woche hat Linda Judith eine rosa Lampe fur ein Zimmer gekauft.",
+    "context_neutral": "Letzte Woche hat Judith Linda eine rosa Lampe fur ein Zimmer gekauft.",
+    "target_a": "Vor zwei Tagen hat {Judith/Linda} wieder eine rosa Lampe erhalten, als sie mit einer Freundin unterwegs war.",
+    "target_b": "Vor zwei Tagen hat {Judith/Linda} wieder eine rosa Lampe besorgt, als sie mit einer Freundin unterwegs war."
+  },
+  {
+    "item_id": 2,
+    "context_positive": "Letztes Jahr hat Linda Timo ein schones Geschenk zum Geburtstag gebastelt.",
+    "context_neutral": "Letztes Jahr hat Timo Linda ein schones Geschenk zum Geburtstag gebastelt.",
+    "target_a": "Vor einer Woche hat {Timo/Linda} wieder ein schones Geschenk empfangen, weil {er/sie} bei einer Wichtelaktion mitgemacht hat.",
+    "target_b": "Vor einer Woche hat {Timo/Linda} wieder ein schones Geschenk gemacht, weil {er/sie} bei einer Wichtelaktion mitgemacht hat."
+  },
+  {
+    "item_id": 3,
+    "context_positive": "Letztes Jahr hat Linda Thorsten ein selbstgeschriebenes Lied vorgesungen.",
+    "context_neutral": "Letztes Jahr hat Thorsten Linda ein selbstgeschriebenes Lied vorgesungen.",
+    "target_a": "Vor drei Wochen hat {Linda/Thorsten} wieder ein selbstgeschriebenes Lied gehort, als {sie/er} bei einer Freundin daheim war.",
+    "target_b": "Vor drei Wochen hat {Linda/Thorsten} wieder ein selbstgeschriebenes Lied gesungen, als {sie/er} bei einer Freundin daheim war."
+  },
+  {
+    "item_id": 4,
+    "context_positive": "Vorletzte Woche hat Linda Karl eine rote Rose geschenkt.",
+    "context_neutral": "Vorletzte Woche hat Karl Linda eine rote Rose geschenkt.",
+    "target_a": "Vor vier Tagen hat {Linda/Karl} wieder eine rote Rose bekommen, als {sie/er} zu einem Date verabredet war.",
+    "target_b": "Vor vier Tagen hat {Linda/Karl} wieder eine rote Rose vergeben, als {sie/er} zu einem Date verabredet war."
+  },
+  {
+    "item_id": 5,
+    "context_positive": "Vor drei Wochen hat Linda Greta einen langen Brief geschrieben.",
+    "context_neutral": "Vor drei Wochen hat Greta Linda einen langen Brief geschrieben.",
+    "target_a": "Vor einer Woche hat {Greta/Linda} wieder einen langen Brief empfangen, weil sie auf eine Anzeige geantwortet hat.",
+    "target_b": "Vor einer Woche hat {Greta/Linda} wieder einen langen Brief verfasst, weil sie auf eine Anzeige geantwortet hat."
+  },
+  {
+    "item_id": 6,
+    "context_positive": "Vor zwei Monaten hat Judith fur Tina einen leckeren Kuchen gebacken.",
+    "context_neutral": "Vor zwei Monaten hat Tina fur Judith einen leckeren Kuchen gebacken.",
+    "target_a": "Vor zwei Wochen hat {Tina/Judith} wieder einen leckeren Kuchen erhalten, weil sie zu einer Party eingeladen hatte.",
+    "target_b": "Vor zwei Wochen hat {Tina/Judith} wieder einen leckeren Kuchen gemacht, weil sie zu einer Party eingeladen hatte."
+  },
+  {
+    "item_id": 7,
+    "context_positive": "Vor einer Woche hat Judith fur Sabine eine fetzige CD zusammengestellt.",
+    "context_neutral": "Vor einer Woche hat Sabine fur Judith eine fetzige CD zusammengestellt.",
+    "target_a": "Vor drei Tagen hat {Sabine/Judith} wieder eine fetzige CD bekommen, weil sie bei einer Tauschaktion mitgemacht hat.",
+    "target_b": "Vor drei Tagen hat {Sabine/Judith} wieder eine fetzige CD gebrannt, weil sie bei einer Tauschaktion mitgemacht hat."
+  },
+  {
+    "item_id": 8,
+    "context_positive": "Letzten Monat hat Judith bei Linda eine neue Blume im Garten eingepflanzt.",
+    "context_neutral": "Letzten Monat hat Linda bei Judith eine neue Blume im Garten eingepflanzt.",
+    "target_a": "Vor einer Woche hat {Linda/Judith} wieder eine neue Blume bekommen, weil sie von einer Rosensorte begeistert ist.",
+    "target_b": "Vor einer Woche hat {Linda/Judith} wieder eine neue Blume eingegraben, weil sie von einer Rosensorte begeistert ist."
+  },
+  {
+    "item_id": 9,
+    "context_positive": "Vor einem Jahr hat Judith fur Timo ein teures Konzertticket bestellt.",
+    "context_neutral": "Vor einem Jahr hat Timo fur Judith ein teures Konzertticket bestellt.",
+    "target_a": "Vor vier Wochen hat {Timo/Judith} wieder ein teures Konzertticket bekommen, weil {sie/er} mit einem Freund feiern will.",
+    "target_b": "Vor vier Wochen hat {Timo/Judith} wieder ein teures Konzertticket erworben, weil {sie/er} mit einem Freund feiern will."
+  },
+  {
+    "item_id": 10,
+    "context_positive": "Letztes Semester hat Greta Judith einen kleinen Spickzettel zukommen lassen.",
+    "context_neutral": "Letztes Semester hat Judith Greta einen kleinen Spickzettel zukommen lassen.",
+    "target_a": "Vor funf Tagen hat {Judith/Greta} wieder einen kleinen Spickzettel erhalten, als sie an einer Klausur teilgenommen hat.",
+    "target_b": "Vor funf Tagen hat {Judith/Greta} wieder einen kleinen Spickzettel weitergegeben, als sie an einer Klausur teilgenommen hat."
+  },
+  {
+    "item_id": 11,
+    "context_positive": "Vor zwei Monaten hat Thorsten Linda ein interessantes Jobangebot offeriert.",
+    "context_neutral": "Vor zwei Monaten hat Linda Thorsten ein interessantes Jobangebot offeriert.",
+    "target_a": "Vor zwei Tagen hat {Linda/Thorsten} wieder ein interessantes Jobangebot bekommen, als {sie/er} auf einer Jobborse zugegen war.",
+    "target_b": "Vor zwei Tagen hat {Linda/Thorsten} wieder ein interessantes Jobangebot gemacht, als {sie/er} auf einer Jobborse zugegen war."
+  },
+  {
+    "item_id": 12,
+    "context_positive": "Vor drei Jahren hat Thorsten fur Timo einen großen Kleiderschrank gekauft.",
+    "context_neutral": "Vor drei Jahren hat Timo fur Thorsten einen großen Kleiderschrank gekauft.",
+    "target_a": "Vor einer Woche hat {Timo/Thorsten} wieder einen großen Kleiderschrank bekommen, weil er mit einem Freund ausgemistet hat.",
+    "target_b": "Vor einer Woche hat {Timo/Thorsten} wieder einen großen Kleiderschrank weggegeben, weil er mit einem Freund ausgemistet hat."
+  },
+  {
+    "item_id": 13,
+    "context_positive": "Letzte Woche hat Thorsten Greta mit einem spannenden Auftrag betreut.",
+    "context_neutral": "Letzte Woche hat Greta Thorsten mit einem spannenden Auftrag betreut.",
+    "target_a": "Vor zwei Tagen hat {Greta/Thorsten} wieder einen spannenden Auftrag ausgefuhrt, als {sie/er} an einer Konferenz teilgenommen hat.",
+    "target_b": "Vor zwei Tagen hat {Greta/Thorsten} wieder einen spannenden Auftrag vergeben, als {sie/er} an einer Konferenz teilgenommen hat."
+  },
+  {
+    "item_id": 14,
+    "context_positive": "Letzten Monat hat Thorsten Sabine ein selbstgemaltes Bild gezeigt.",
+    "context_neutral": "Letzten Monat hat Sabine Thorsten ein selbstgemaltes Bild gezeigt.",
+    "target_a": "Vor zwei Wochen hat {Sabine/Thorsten} wieder ein selbstgemaltes Bild gesehen, als {sie/er} mit einer Kunstlerin verabredet war.",
+    "target_b": "Vor zwei Wochen hat {Sabine/Thorsten} wieder ein selbstgemaltes Bild prapentiert, als {sie/er} mit einer Kunstlerin verabredet war."
+  },
+  {
+    "item_id": 15,
+    "context_positive": "Vor vier Wochen hat Thorsten Tina angeschrien.",
+    "context_neutral": "Vor vier Wochen hat Tina Thorsten angeschrien.",
+    "target_a": "Vor drei Tagen hat {Tina/Thorsten} wieder eine lautstarke Standpauke bekommen, als {sie/er} an einer Bushaltestelle gewartet hat.",
+    "target_b": "Vor drei Tagen hat {Tina/Thorsten} wieder eine lautstarke Standpauke gehalten, als {sie/er} an einer Bushaltestelle gewartet hat."
+  },
+  {
+    "item_id": 16,
+    "context_positive": "Vor vier Monaten hat Greta Sabine ein tragisches Gedicht vorgetragen.",
+    "context_neutral": "Vor vier Monaten hat Sabine Greta ein tragisches Gedicht vorgetragen.",
+    "target_a": "Vor zwei Tagen hat {Sabine/Greta} wieder ein tragisches Gedicht gehort, als sie bei einem Kleinkunstabend zugegen war.",
+    "target_b": "Vor zwei Tagen hat {Sabine/Greta} wieder ein tragisches Gedicht rezitiert, als sie bei einem Kleinkunstabend zugegen war."
+  },
+  {
+    "item_id": 17,
+    "context_positive": "Vor zwei Monaten hat Greta vor Tina einen komplizierten Vortrag gehalten.",
+    "context_neutral": "Vor zwei Monaten hat Tina vor Greta einen komplizierten Vortrag gehalten.",
+    "target_a": "Vor drei Tagen hat {Tina/Greta} wieder einen komplizierten Vortrag gehort, als sie auf einer Tagung gewesen ist.",
+    "target_b": "Vor drei Tagen hat {Tina/Greta} wieder einen komplizierten Vortrag prasentiert, als sie auf einer Tagung gewesen ist."
+  },
+  {
+    "item_id": 18,
+    "context_positive": "Vor einer Woche hat Greta Thorsten einen Cocktail ausgegeben.",
+    "context_neutral": "Vor einer Woche hat Thorsten Greta einen Cocktail ausgegeben.",
+    "target_a": "Vor vier Tagen hat {Thorsten/Greta} wieder einen leckeren Cocktail bekommen, als {er/sie} in einer Bar gewesen ist.",
+    "target_b": "Vor vier Tagen hat {Thorsten/Greta} wieder einen leckeren Cocktail bezahlt, als {er/sie} in einer Bar gewesen ist."
+  },
+  {
+    "item_id": 19,
+    "context_positive": "Vor zwei Wochen hat Greta Judith ein Kompliment gemacht.",
+    "context_neutral": "Vor zwei Wochen hat Judith Greta ein Kompliment gemacht.",
+    "target_a": "Vor einer Woche hat {Judith/Greta} wieder ein nettes Kompliment erhalten, als sie in einem Park spazieren war.",
+    "target_b": "Vor einer Woche hat {Judith/Greta} wieder ein nettes Kompliment verteilt, als sie in einem Park spazieren war."
+  },
+  {
+    "item_id": 20,
+    "context_positive": "Vor drei Monaten hat Greta Karl ein franzosisches Lied beigebracht.",
+    "context_neutral": "Vor drei Monaten hat Karl Greta ein franzosisches Lied beigebracht.",
+    "target_a": "Vor zwei Wochen hat {Karl/Greta} wieder ein franzosisches Lied gelernt, als {er/sie} mit einem Freund unterwegs war.",
+    "target_b": "Vor zwei Wochen hat {Karl/Greta} wieder ein franzosisches Lied gesungen, als {er/sie} mit einem Freund unterwegs war."
+  },
+  {
+    "item_id": 21,
+    "context_positive": "Letztes Jahr hat Tina Timo eine Uberraschungsparty zum bestandenen Examen organisiert.",
+    "context_neutral": "Letztes Jahr hat Timo Tina eine Uberraschungsparty zum bestandenen Examen organisiert.",
+    "target_a": "Vor vier Monaten hat {Timo/Tina} wieder eine große Uberraschungsparty bekommen, weil {er/sie} in einem Preisausschreiben gewonnen hatte.",
+    "target_b": "Vor vier Monaten hat {Timo/Tina} wieder eine große Uberraschungsparty ausgerichtet, weil {er/sie} in einem Preisausschreiben gewonnen hatte."
+  },
+  {
+    "item_id": 22,
+    "context_positive": "Vor vier Wochen hat Tina Greta von einer albernen Geschichte aus ihrem Leben berichtet.",
+    "context_neutral": "Vor vier Wochen hat Greta Tina von einer albernen Geschichte aus ihrem Leben berichtet.",
+    "target_a": "Vor zwei Tagen hat {Greta/Tina} wieder eine alberne Geschichte gehort, als sie auf einer Geburtstagsparty eingeladen war.",
+    "target_b": "Vor zwei Tagen hat {Greta/Tina} wieder eine alberne Geschichte erzahlt, als sie auf einer Geburtstagsparty eingeladen war."
+  },
+  {
+    "item_id": 23,
+    "context_positive": "Vor einer Woche hat Tina Sabine wutend gemacht.",
+    "context_neutral": "Vor einer Woche hat Sabine Tina wutend gemacht.",
+    "target_a": "Vor zwei Tagen hat {Sabine/Tina} wieder einen kleinen Wutanfall bekommen, als sie an einer Schlange anstehen musste.",
+    "target_b": "Vor zwei Tagen hat {Sabine/Tina} wieder einen kleinen Wutanfall provoziert, als sie an einer Schlange anstehen musste."
+  },
+  {
+    "item_id": 24,
+    "context_positive": "Letzten Monat hat Tina Thorsten ein Lied gewidmet.",
+    "context_neutral": "Letzten Monat hat Thorsten Tina ein Lied gewidmet.",
+    "target_a": "Vor einer Woche hat {Thorsten/Tina} wieder eine nette Widmung bekommen, weil {er/sie} an einem Song mitgearbeitet hat.",
+    "target_b": "Vor einer Woche hat {Thorsten/Tina} wieder eine nette Widmung geschrieben, weil {er/sie} an einem Song mitgearbeitet hat."
+  },
+  {
+    "item_id": 25,
+    "context_positive": "Vor vier Wochen hat Tina vor Karl einen lustigen Sketch aufgefuhrt.",
+    "context_neutral": "Vor vier Wochen hat Karl vor Tina einen lustigen Sketch aufgefuhrt.",
+    "target_a": "Vor zwei Wochen hat {Karl/Tina} wieder einen lustigen Sketch gesehen, als {er/sie} auf einem Comedyfestival gewesen ist.",
+    "target_b": "Vor zwei Wochen hat {Karl/Tina} wieder einen lustigen Sketch dargeboten, als {er/sie} auf einem Comedyfestival gewesen ist."
+  },
+  {
+    "item_id": 26,
+    "context_positive": "Vorletzten Monat hat Sabine Tina eine neue Gitarrensaite besorgt.",
+    "context_neutral": "Vorletzten Monat hat Tina Sabine eine neue Gitarrensaite besorgt.",
+    "target_a": "Vor drei Tagen hat {Tina/Sabine} wieder eine neue Gitarrensaite erhalten, als sie mit einem Freund einkaufen war.",
+    "target_b": "Vor drei Tagen hat {Tina/Sabine} wieder eine neue Gitarrensaite gekauft, als sie mit einem Freund einkaufen war."
+  },
+  {
+    "item_id": 27,
+    "context_positive": "Letzten Monat hat Sabine Thorsten ein schweres Paket gebracht.",
+    "context_neutral": "Letzten Monat hat Thorsten Sabine ein schweres Paket gebracht.",
+    "target_a": "Vor einer Woche hat {Thorsten/Sabine} wieder ein schweres Paket entgegengenommen, wahrend {er/sie} an eine Geburtstagsparty gedacht hat.",
+    "target_b": "Vor einer Woche hat {Thorsten/Sabine} wieder ein schweres Paket abgegeben, wahrend {er/sie} an eine Geburtstagsparty gedacht hat."
+  },
+  {
+    "item_id": 28,
+    "context_positive": "Letztes Jahr hat Sabine Karl einen guten Wein per Post geschickt.",
+    "context_neutral": "Letztes Jahr hat Karl Sabine einen guten Wein per Post geschickt.",
+    "target_a": "Vor zwei Monaten hat {Karl/Sabine} wieder einen guten Wein empfangen, weil {er/sie} bei einem Weinhandler eingekauft hat.",
+    "target_b": "Vor zwei Monaten hat {Karl/Sabine} wieder einen guten Wein versendet, weil {er/sie} bei einem Weinhandler eingekauft hat."
+  },
+  {
+    "item_id": 29,
+    "context_positive": "Vergangene Woche hat Sabine Judith eine knusprige Brezel vom Backer mitgebracht.",
+    "context_neutral": "Vergangene Woche hat Judith Sabine eine knusprige Brezel vom Backer mitgebracht.",
+    "target_a": "Vor zwei Tagen hat {Judith/Sabine} wieder eine knusprige Brezel bekommen, als sie auf einer Lebensmittelmesse unterwegs war.",
+    "target_b": "Vor zwei Tagen hat {Judith/Sabine} wieder eine knusprige Brezel besorgt, als sie auf einer Lebensmittelmesse unterwegs war."
+  },
+  {
+    "item_id": 30,
+    "context_positive": "Vor zwei Wochen hat Sabine Linda angelogen.",
+    "context_neutral": "Vor zwei Wochen hat Linda Sabine angelogen.",
+    "target_a": "Vor vier Tagen hat {Linda/Sabine} wieder eine gemeine Luge gehort, als sie an einem Streit beteiligt war.",
+    "target_b": "Vor vier Tagen hat {Linda/Sabine} wieder eine gemeine Luge erzahlt, als sie an einem Streit beteiligt war."
+  },
+  {
+    "item_id": 31,
+    "context_positive": "Vor drei Wochen hat Timo Judith massiert.",
+    "context_neutral": "Vor drei Wochen hat Judith Timo massiert.",
+    "target_a": "Vor vier Tagen hat {Judith/Timo} wieder eine wohltuende Massage bekommen, wahrend {sie/er} mit einer Freundin gelernt hat.",
+    "target_b": "Vor vier Tagen hat {Judith/Timo} wieder eine wohltuende Massage gegeben, wahrend {sie/er} mit einer Freundin gelernt hat."
+  },
+  {
+    "item_id": 32,
+    "context_positive": "Vor drei Monaten hat Timo Linda ein weißes Bucherregal gebaut.",
+    "context_neutral": "Vor drei Monaten hat Linda Timo ein weißes Bucherregal gebaut.",
+    "target_a": "Vor zwei Wochen hat {Linda/Timo} wieder ein weißes Bucherregal geschreinert, weil {sie/er} in eine WG gezogen ist.",
+    "target_b": "Vor zwei Wochen hat {Linda/Timo} wieder ein weißes Bucherregal erhalten, weil {sie/er} in eine WG gezogen ist."
+  },
+  {
+    "item_id": 33,
+    "context_positive": "Letzten Monat hat Timo Greta ein peinliches Geheimnis verraten.",
+    "context_neutral": "Letzten Monat hat Greta Timo ein peinliches Geheimnis verraten.",
+    "target_a": "Vor drei Tagen hat {Greta/Timo} wieder ein peinliches Geheimnis erfahren, als {sie/er} an einem Klassentreffen teilgenommen hat.",
+    "target_b": "Vor drei Tagen hat {Greta/Timo} wieder ein peinliches Geheimnis preisgegeben, als {sie/er} an einem Klassentreffen teilgenommen hat."
+  },
+  {
+    "item_id": 34,
+    "context_positive": "Vor vier Monaten hat Timo Sabine einen neuen Haarschnitt verpasst.",
+    "context_neutral": "Vor vier Monaten hat Sabine Timo einen neuen Haarschnitt verpasst.",
+    "target_a": "Vor einer Woche hat {Sabine/Timo} wieder einen neuen Haarschnitt bekommen, weil {sie/er} an einem Frisurenwettbewerb teilgenommen hat.",
+    "target_b": "Vor einer Woche hat {Sabine/Timo} wieder einen neuen Haarschnitt kreiert, weil {sie/er} an einem Frisurenwettbewerb teilgenommen hat."
+  },
+  {
+    "item_id": 35,
+    "context_positive": "Vorletzte Woche hat Timo Tina funf Euro geborgt.",
+    "context_neutral": "Vorletzte Woche hat Tina Timo funf Euro geborgt.",
+    "target_a": "Vor zwei Tagen hat {Tina/Timo} wieder eine kleine Geldsumme ausgeliehen, als {sie/er} in einer Kneipe verabredet war.",
+    "target_b": "Vor zwei Tagen hat {Tina/Timo} wieder eine kleine Geldsumme verliehen, als {sie/er} in einer Kneipe verabredet war."
+  },
+  {
+    "item_id": 36,
+    "context_positive": "Vor einem Monat hat Karl Thorsten eine dringende Erinnerung per Mail zukommen lassen.",
+    "context_neutral": "Vor einem Monat hat Thorsten Karl eine dringende Erinnerung per Mail zukommen lassen.",
+    "target_a": "Vor zwei Wochen hat {Thorsten/Karl} wieder eine dringende Erinnerung erhalten, wahrend er an einem Projekt gearbeitet hat.",
+    "target_b": "Vor zwei Wochen hat {Thorsten/Karl} wieder eine dringende Erinnerung verschickt, wahrend er an einem Projekt gearbeitet hat."
+  },
+  {
+    "item_id": 37,
+    "context_positive": "Vor vier Jahren hat Karl Judith ein maßgefertigtes Bett gebaut.",
+    "context_neutral": "Vor vier Jahren hat Judith Karl ein maßgefertigtes Bett gebaut.",
+    "target_a": "Vor funf Wochen hat {Judith/Karl} wieder ein maßgefertigtes Bett bekommen, weil {sie/er} mit einem Freund zusammen zieht.",
+    "target_b": "Vor funf Wochen hat {Judith/Karl} wieder ein maßgefertigtes Bett konstruiert, weil {sie/er} mit einem Freund zusammen zieht."
+  },
+  {
+    "item_id": 38,
+    "context_positive": "Vor drei Monaten hat Karl fur Linda ein neues Instrument gekauft.",
+    "context_neutral": "Vor drei Monaten hat Linda fur Karl ein neues Instrument gekauft.",
+    "target_a": "Vor zwei Wochen hat {Linda/Karl} wieder ein neues Instrument bekommen, weil {sie/er} in ein Orchester eingetreten ist.",
+    "target_b": "Vor zwei Wochen hat {Linda/Karl} wieder ein neues Instrument erstanden, weil {sie/er} in ein Orchester eingetreten ist."
+  },
+  {
+    "item_id": 39,
+    "context_positive": "Letztes Jahr hat Karl Timo einen kraftigen Fausthieb verpasst.",
+    "context_neutral": "Letztes Jahr hat Timo Karl einen kraftigen Fausthieb verpasst.",
+    "target_a": "Vor vier Wochen hat {Timo/Karl} wieder einen kraftigen Fausthieb ausgeteilt, als er in eine Schlägerei verwickelt war.",
+    "target_b": "Vor vier Wochen hat {Timo/Karl} wieder einen kraftigen Fausthieb abbekommen, als er in eine Schlägerei verwickelt war."
+  },
+  {
+    "item_id": 40,
+    "context_positive": "Vor einem halben Jahr hat Karl Greta charmant zum Tanzen aufgefordert.",
+    "context_neutral": "Vor einem halben Jahr hat Greta Karl charmant zum Tanzen aufgefordert.",
+    "target_a": "Vor zwei Wochen hat {Greta/Karl} wieder eine charmante Tanzaufforderung erhalten, als {sie/er} auf einer Party einsam war.",
+    "target_b": "Vor zwei Wochen hat {Greta/Karl} wieder eine charmante Tanzaufforderung ausgesprochen, als {sie/er} auf einer Party einsam war."
+  }
+]
